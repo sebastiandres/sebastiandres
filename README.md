@@ -19,3 +19,9 @@
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/sebastiandres/sebastiandres/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastiandres/)**
 - :speak_no_evil: &nbsp;See projects and talks at my **[linktree](https://linktr.ee/sebastiandres)**
+
+Some projects I'm particularly proud of:
+- [linktree emulator](https://github.com/sebastiandres/linktree): The smallest emulator for linktree site. Presents the jupyter notebook in several formats (interactive with binder, html, pdf, videos, etc).
+- [ppt to rise](https://github.com/sebastiandres/pptx_to_RISE): Helps to convert a powerpoint presentation to jupyter notebook + RISE.
+- [pypsdier](https://github.com/sebastiandres/pypsdier): a python library to solve pde reaction-difussion equations, considering inmmobilized catalyst particles. 
+- [polite](https://github.com/sebastiandres/polite): littlest survey website.
