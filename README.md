@@ -15,12 +15,13 @@
 
 - :school: &nbsp;I'm currently working at **uPlanner**
 - :seedling: &nbsp;I’m currently learning **Javascript**
-- :speech_balloon: &nbsp;I like to talk about **Python**, **Jupyter** and the **RISE** extension.
+- :speech_balloon: &nbsp;I like to talk about **Python**, **Streamlit**, **Jupyter** and the **RISE** extension.
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/sebastiandres/sebastiandres/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastiandres/)**
-- :speak_no_evil: &nbsp;See projects and talks at my **[linktree](https://linktr.ee/sebastiandres)**
+- :speak_no_evil: &nbsp;See projects and talks at my **[website](https://sebastiandres.xyz)**
 
 Some projects I'm particularly proud of:
+- Machine Learning Education [web](https://github.com/sebastiandres/ml-edu): Short & fun interactive pages for some Machine Learning concepts, made with Streamlit.
 - [linktree emulator](https://github.com/sebastiandres/linktree): The smallest emulator for linktree site. Presents the jupyter notebook in several formats (interactive with binder, html, pdf, videos, etc).
 - [ppt to rise](https://github.com/sebastiandres/pptx_to_RISE): Helps to convert a powerpoint presentation to jupyter notebook + RISE.
 - [pypsdier](https://github.com/sebastiandres/pypsdier): a python library to solve pde reaction-difussion equations, considering inmmobilized catalyst particles. 
