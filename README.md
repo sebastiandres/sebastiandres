@@ -9,12 +9,9 @@
   </a>
 </p>
 
-<a href="#sebastiandres-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiandres&show_icons=true&count_private=true&include_all_commits=true" alt="sebastiandres" align="right" />
-</a>
-
-- :school: &nbsp;I work at [uPlanner](https://uplanner.com/)
+- :speech_balloon: &nbsp;I'm obsessed with Storytelling and Data Storytelling. I've given talks on English and Spanish on this topic.
 - :speech_balloon: &nbsp;I like to talk about **Python**, **Streamlit**, **Jupyter** and the **RISE** extension, **Vizzu** and **Quarto**.
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/sebastiandres/sebastiandres/issues)**
+- :school: &nbsp;I work at [uPlanner](https://uplanner.com/)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastiandres/)**
 - :speak_no_evil: &nbsp;See projects and talks at my website **[https://sebastiandres.xyz/](https://sebastiandres.xyz/)**
